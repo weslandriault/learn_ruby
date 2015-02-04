@@ -52,7 +52,7 @@ end
 # If you feel you're up for the challenge, fill in the missing code in the tests below,
 # based off the descriptions, and get them to pass.
 
-describe "#multiply" do
+describe "multiply" do
 
   it "multiplies two numbers" do
   end
