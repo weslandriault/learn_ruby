@@ -31,7 +31,6 @@ def titleize(string)
 			capitalized << word.capitalize + " "
 		end
 	end
-
 	capitalized.strip
 end
 titleize("the is a string")
